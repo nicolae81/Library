@@ -59,7 +59,7 @@ if __name__ == "__main__":
     # Load books from JSON file if available
     load_books(library)
     
-    # Your existing code for menu and actions
+    # Code for menu and actions
     while True:
         display_menu()
         choice = input("Enter your choice: ")
